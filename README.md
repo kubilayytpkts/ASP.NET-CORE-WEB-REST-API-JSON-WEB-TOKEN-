@@ -1,9 +1,10 @@
 # A74KC-KUBILAY-TOPAKTAS
 ![giris](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/ec30e45e-4211-429c-a247-d0c1bba925a8)
 
-![YETKİSİZ POST](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/fa56c38a-e41f-4cc1-90f2-8a79e4c4c729)
+![YETKISIZ POST](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/f1c77510-ba0e-42ea-b401-73c12632032f)
 
-![YETKILI POST](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/5d4c5191-c45a-4110-9ad6-5a244ffd31b7)
+![YETKILI POST](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/3ff04abe-8145-42d2-95f8-af1e65c676dd)
 
-![Ürün görüntüleme](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/ddf3a832-06bc-4fb5-8a50-b4b55768b4bb)
+![görüntüleme](https://github.com/kubilayytpkts/A74KC-KUBILAY-TOPAKTAS/assets/119957098/cc486284-7376-43c7-905e-667102673019)
+
 
