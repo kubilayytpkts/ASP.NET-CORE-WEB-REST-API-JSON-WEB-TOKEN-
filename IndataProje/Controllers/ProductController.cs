@@ -21,6 +21,7 @@ namespace IndataProje.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult GetAllProduct()
         {
             return Ok(_IProductRepository.GetAll());
