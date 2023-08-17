@@ -9,18 +9,18 @@ namespace IndataProje.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles ="User")]
+    [Authorize]
+    
     public class ProductController : ControllerBase
     {
         public IProductRepository _IProductRepository { get; set; }
 
-        public ProductController(ProductRepository IProductRepository)
+        public ProductController()
         {
-            _IProductRepository = IProductRepository;
+            _IProductRepository=new ProductRepository();
         }
 
         [HttpGet]
-        [AllowAnonymous]
         public IActionResult GetAllProduct()
         {
             return Ok(_IProductRepository.GetAll());
